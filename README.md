@@ -20,3 +20,5 @@
 ## Notes
 ✅ This app uses the Mini App Onchain Kit format (frame JSON output)  
 ✅ No external API or DB — all quotes are embedded
+
+ Making a change
